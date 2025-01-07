@@ -1,6 +1,5 @@
 # Zomato-Analysis
-```
-sql
+```sql
 drop table if exists goldusers_signup;
 CREATE TABLE goldusers_signup(userid integer,gold_signup_date date); 
 
